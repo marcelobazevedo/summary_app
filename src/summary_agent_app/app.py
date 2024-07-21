@@ -1,7 +1,7 @@
 import streamlit as st
 from agent import Agent
 
-agent = Agent("sk-None-P0kU2nBBpoRr0ypZHx4xT3BlbkFJKFKbu6YjHU2iHHhV9Kd1")
+agent = Agent("")
 
 
 st.set_page_config(page_title="Sumarizador de Artigos", layout="centered")
